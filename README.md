@@ -43,8 +43,8 @@ grade-calc/
 ├── data/
 │   ├── Grades_Short.csv
 │   └── Grades_Short_Letter.csv
-├── grade-calc.ipynb
-└── README.md
+├── README.md
+└── grade-calc.ipynb
 ```
 
 ## Usage
