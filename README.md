@@ -42,20 +42,16 @@ grade-calc/
 │
 ├── data/
 │   └── Grades_Short.csv
-├── grade-calc.py
+├── grade-calc.ipynb
 └── README.md
 ```
 
 ## Usage
 
 1. Place `Grades_Short.csv` in the `data` directory.
-2. Run the script:
-
-```bash
-python grade-calc.py
-```
-
-3. The program will calculate final grades, assign letter grades, and save the results to:
+2. Open the file 'grade-calc.ipynb' in Jupyter Notebook.
+3. Run all cells.
+4. The program will calculate final grades, assign letter grades, and save the results to:
 
 ```text
 data/Grades_Short_Letter.csv
