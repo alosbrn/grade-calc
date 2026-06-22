@@ -15,7 +15,7 @@ A Python program that uses the Pandas library to read student grades from a CSV 
 
 ## Grade Scale
 
-| Numeric Grade | Letter Grade |
+| Final_Grade | Letter_Grade |
 | ------------- | ------------ |
 | 90 - 100      | A+           |
 | 80 - 89.9     | A            |
@@ -71,13 +71,13 @@ Saving...
 Saved as '/data/Grades_Short_Letter.csv'!
 ```
 
-## Example Output
+### Example Output
 
-| StudentID | Assignment1 | Assignment2 | Midterm | FinalExam | Final_Grade | Letter_Grade |
-| --------- | ----------- | ----------- | ------- | --------- | ----------- | ------------ |
-| 1001      | 85          | 90          | 78      | 88        | 85.3        | A            |
-| 1002      | 92          | 95          | 89      | 94        | 92.5        | A+           |
-| 1003      | 74          | 70          | 68      | 72        | 71.0        | B            |
+| ID   | Name    | Assignment_1 | Assignment_2 | Quiz_1 | Quiz_2 | Mid_Term_Exam | Final_Exam | Final_Grade | Letter_Grade |
+| ---- | ------- | ------------ | ------------ | ------ | ------ | ------------- | ---------- | ----------- | ------------ |
+| 1001 | Alice   | 85           | 90           | 88     | 92     | 84            | 89         | 88.0        | A            |
+| 1002 | Bob     | 72           | 68           | 75     | 70     | 73            | 77         | 72.5        | B            |
+| 1003 | Charlie | 95           | 98           | 94     | 96     | 92            | 97         | 95.3        | A+           |
 
 ## Learning Objectives
 
