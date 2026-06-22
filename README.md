@@ -53,7 +53,7 @@ grade-calc/
 2. Run the script:
 
 ```bash
-python main.py
+python grade-calc.py
 ```
 
 3. The program will calculate final grades, assign letter grades, and save the results to:
