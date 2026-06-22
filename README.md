@@ -57,7 +57,7 @@ grade-calc/
 data/Grades_Short_Letter.csv
 ```
 
-## Example Grades_Short_Letter.csv file
+### Example Grades_Short_Letter.csv file
 
 | ID   | Name    | Assignment_1 | Assignment_2 | Quiz_1 | Quiz_2 | Mid_Term_Exam | Final_Exam | Final_Grade | Letter_Grade |
 | ---- | ------- | ------------ | ------------ | ------ | ------ | ------------- | ---------- | ----------- | ------------ |
