@@ -41,7 +41,8 @@ pip install pandas
 grade-calc/
 │
 ├── data/
-│   └── Grades_Short.csv
+│   ├── Grades_Short.csv
+│   └── Grades_Short_Letter.csv
 ├── grade-calc.ipynb
 └── README.md
 ```
